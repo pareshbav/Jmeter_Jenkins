@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1596003778426,5545,01_Launch_HomePage,200,OK,Thread Group 1-1,text,true,,3333,724,1,1,https://blazedemo.com/,1777,0,1458
+1596003778426,1832,01_Launch_HomePage-0,302,Found,Thread Group 1-1,text,true,,162,362,1,1,http://blazedemo.com/,1777,0,1458
+1596003780265,3706,01_Launch_HomePage-1,200,OK,Thread Group 1-1,text,true,,3171,362,1,1,https://blazedemo.com/,3704,0,2038
+1596003777996,5545,01_TR_Launch_HomePage,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,3333,724,1,1,null,1777,436,1458
+1596003807140,740,02_Find_Flight,200,OK,Thread Group 1-1,text,true,,5786,608,1,1,https://blazedemo.com/reserve.php,636,0,0
+1596003783987,740,02_TR_Find_Fights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5786,608,1,1,null,636,23153,0

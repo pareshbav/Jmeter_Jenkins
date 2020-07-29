@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1596004000404,3312,01_Launch_HomePage,200,OK,Thread Group 1-1,text,true,,3333,724,1,1,https://blazedemo.com/,420,0,119
+1596004000404,426,01_Launch_HomePage-0,302,Found,Thread Group 1-1,text,true,,162,362,1,1,http://blazedemo.com/,420,0,119
+1596004000836,2880,01_Launch_HomePage-1,200,OK,Thread Group 1-1,text,true,,3171,362,1,1,https://blazedemo.com/,2877,0,1659
+1596004000188,3312,01_TR_Launch_HomePage,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,3333,724,1,1,null,420,225,119
+1596004035492,760,02_Find_Flight,200,OK,Thread Group 1-1,text,true,,5786,608,1,1,https://blazedemo.com/reserve.php,487,0,0
+1596004003727,760,02_TR_Find_Fights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5786,608,1,1,null,487,31766,0
+1596004036261,2404,01_Launch_HomePage,200,OK,Thread Group 1-1,text,true,,3333,724,1,1,https://blazedemo.com/,299,0,24
+1596004036261,299,01_Launch_HomePage-0,302,Found,Thread Group 1-1,text,true,,162,362,1,1,http://blazedemo.com/,299,0,24
+1596004036562,2103,01_Launch_HomePage-1,200,OK,Thread Group 1-1,text,true,,3171,362,1,1,https://blazedemo.com/,2101,0,235
+1596004036255,2404,01_TR_Launch_HomePage,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,3333,724,1,1,null,299,9,24
+1596004078800,1382,02_Find_Flight,200,OK,Thread Group 1-1,text,true,,5786,608,1,1,https://blazedemo.com/reserve.php,548,0,0
+1596004038669,1382,02_TR_Find_Fights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5786,608,1,1,null,548,40138,0
+1596004080192,2517,01_Launch_HomePage,200,OK,Thread Group 1-1,text,true,,3333,724,1,1,https://blazedemo.com/,1789,0,1518
+1596004080192,1789,01_Launch_HomePage-0,302,Found,Thread Group 1-1,text,true,,162,362,1,1,http://blazedemo.com/,1789,0,1518
+1596004081980,729,01_Launch_HomePage-1,200,OK,Thread Group 1-1,text,true,,3171,362,1,1,https://blazedemo.com/,725,0,227
+1596004080190,2517,01_TR_Launch_HomePage,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,3333,724,1,1,null,1789,7,1518
+1596004110945,632,02_Find_Flight,200,OK,Thread Group 1-1,text,true,,5786,608,1,1,https://blazedemo.com/reserve.php,629,0,0
+1596004082714,632,02_TR_Find_Fights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5786,608,1,1,null,629,28236,0
+1596004111586,959,01_Launch_HomePage,200,OK,Thread Group 1-1,text,true,,3333,724,1,1,https://blazedemo.com/,298,0,25
+1596004111586,298,01_Launch_HomePage-0,302,Found,Thread Group 1-1,text,true,,162,362,1,1,http://blazedemo.com/,298,0,25
+1596004111885,660,01_Launch_HomePage-1,200,OK,Thread Group 1-1,text,true,,3171,362,1,1,https://blazedemo.com/,659,0,218
+1596004111583,959,01_TR_Launch_HomePage,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,3333,724,1,1,null,298,4,25
+1596004125653,746,02_Find_Flight,200,OK,Thread Group 1-1,text,true,,5786,608,1,1,https://blazedemo.com/reserve.php,734,0,0
+1596004112546,746,02_TR_Find_Fights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5786,608,1,1,null,734,13108,0
+1596004126402,1929,01_Launch_HomePage,200,OK,Thread Group 1-1,text,true,,3333,724,1,1,https://blazedemo.com/,317,0,18
+1596004126402,317,01_Launch_HomePage-0,302,Found,Thread Group 1-1,text,true,,162,362,1,1,http://blazedemo.com/,317,0,18
+1596004126719,1612,01_Launch_HomePage-1,200,OK,Thread Group 1-1,text,true,,3171,362,1,1,https://blazedemo.com/,1187,0,675
+1596004126401,1929,01_TR_Launch_HomePage,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,3333,724,1,1,null,317,3,18
+1596004144637,1154,02_Find_Flight,200,OK,Thread Group 1-1,text,true,,5786,608,1,1,https://blazedemo.com/reserve.php,866,0,0
+1596004128333,1154,02_TR_Find_Fights,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,5786,608,1,1,null,866,16307,0
